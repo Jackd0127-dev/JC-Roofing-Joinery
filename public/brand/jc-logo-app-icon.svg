@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs>
+  <linearGradient id="socialBackground" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#5B3327"/>
+    <stop offset="100%" stop-color="#3B211A"/>
+  </linearGradient>
+  <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#D05B31"/>
+    <stop offset="100%" stop-color="#B33F24"/>
+  </linearGradient>
+  <filter id="dropShadow" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#4A2C22" flood-opacity="0.22"/>
+  </filter>
+</defs><g transform="translate(-137.846154 -9.846154) scale(1.969231)"><rect x="99" y="35" width="199" height="197" rx="37" fill="url(#socialBackground)"/><g transform="translate(123.267327 57.892857) scale(0.409241 0.403571)">
+<g id="JC-monogram">
+  <path id="roof-left" d="M 209 30 L 80 92 L 80 133 L 203 73 L 204 43 C 204 36 206 32 209 30 Z" fill="#FFF9F3"/>
+  <path id="roof-right" d="M 211 31 C 214 33 215 37 215 43 L 215 75 L 338 156 L 338 115 Z" fill="url(#orangeGradient)"/>
+  <path id="letter-J" d="M 202 85 L 151 111 L 151 230 C 151 250 139 262 120 262 C 101 262 87 250 87 228 L 36 228 C 36 278 69 310 117 310 C 166 310 202 279 202 230 Z" fill="#FFF9F3"/>
+  <path id="letter-C" d="M 213 85 L 258 115 L 258 230 C 258 246 267 255 281 255 C 290 255 295 248 295 228 L 339 228 C 339 276 311 304 276 304 C 237 304 212 282 212 247 Z" fill="url(#orangeGradient)"/>
+</g></g></g></svg>
